@@ -18,13 +18,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TwilioVirtualBackgroundProcessors",
-            url: "https://github.com/twilio/twilio-virtual-background-processors-ios/releases/download/5.11.2/TwilioVirtualBackgroundProcessors.xcframework.zip",
-            checksum: "24d9878870e6d0e5790c6fac9e092892f9d8bc4f28590d3f10469f12f732e858"
+            url: "https://github.com/twilio/twilio-virtual-background-processors-ios/releases/download/5.11.3/TwilioVirtualBackgroundProcessors.xcframework.zip",
+            checksum: "4ba342a7f0dcecb7eaa63e94c9f46cc57155ee8140256670c00fe30fcd911740"
         ),
         .binaryTarget(
             name: "TwilioVirtualBackgroundProcessors-static",
-            url: "https://github.com/twilio/twilio-virtual-background-processors-ios/releases/download/5.11.2/TwilioVirtualBackgroundProcessors-static.xcframework.zip",
-            checksum: "44847d589935679a32bbc0e22e9adf96c35ac810c75a6ca5e88901b361f471e1"
+            url: "https://github.com/twilio/twilio-virtual-background-processors-ios/releases/download/5.11.3/TwilioVirtualBackgroundProcessors-static.xcframework.zip",
+            checksum: "261a81a1efe9fca58047d7820f29f455334f4756eae4b2124072779c2de36220"
         )
     ]
 )
